@@ -56,25 +56,6 @@ desenha o gráfico quando a pergunta pede comparação.
 
 ---
 
-## Tecnologia
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-</div>
-
-Next.js (App Router) + React + TypeScript no front. Supabase (Postgres com
-Row Level Security, Auth e Storage) no backend, Gemini para a importação por
-IA, Asaas para as assinaturas, e deploy em Cloudflare Workers.
-
----
-
 <div align="center">
 
 **Feito no Brasil 🇧🇷**
