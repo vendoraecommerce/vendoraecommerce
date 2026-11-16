@@ -4,14 +4,17 @@
 
 ### O catálogo que organiza a bagunça e vende por você.
 
-Catálogos digitais e pedidos pelo WhatsApp, num só lugar.
+**SaaS para pequenos negócios criarem catálogos digitais e gerenciarem pedidos via WhatsApp e plataforma própria. Importação com IA, dashboard de vendas em tempo real, gestão de clientes e assistente inteligente.**
 
 <br />
 
-[![Site](https://img.shields.io/badge/site-vendora.app-0E7BE9?style=for-the-badge)](https://vendora.app)
-[![Planos](https://img.shields.io/badge/começar-grátis-22c55e?style=for-the-badge)](https://vendora.app/planos)
-
 </div>
+
+---
+
+## Bio
+
+**Plataforma SaaS para pequenos negócios venderem melhor.** Catálogos digitais personalizados, gestão de pedidos via WhatsApp ou plataforma, dashboard com métricas em tempo real e assistente IA que entende seu negócio. Importação inteligente (PDF, planilhas, fotos), histórico de clientes e controle total de vendas — tudo integrado. Para quem vende online sem perder pedido, sem fazer conta na mão e sabendo quanto faturou no mês.
 
 ---
 
@@ -74,6 +77,6 @@ IA, Asaas para as assinaturas, e deploy em Cloudflare Workers.
 
 <div align="center">
 
-**[vendora.app](https://vendora.app)** · Feito no Brasil 🇧🇷
+**Feito no Brasil 🇧🇷**
 
 </div>
