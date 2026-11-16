@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vendoraecommerce/vendoraecommerce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./logo-full.png" alt="Vendora" width="260" />
 
-Here are some ideas to get you started:
+### O catálogo que organiza a bagunça e vende por você.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Catálogos digitais e pedidos pelo WhatsApp, num só lugar.
+
+<br />
+
+[![Site](https://img.shields.io/badge/site-vendora.app-0E7BE9?style=for-the-badge)](https://vendora.app)
+[![Planos](https://img.shields.io/badge/começar-grátis-22c55e?style=for-the-badge)](https://vendora.app/planos)
+
+</div>
+
+---
+
+## O problema
+
+Quem vende pelo WhatsApp perde pedido no meio da conversa, manda print de
+planilha, refaz orçamento na mão e não sabe quanto vendeu no mês.
+
+## O que o Vendora faz
+
+**Monte o catálogo em minutos.** Suba um PDF do fornecedor, uma planilha ou
+um lote de fotos — a IA lê tudo e cadastra os produtos pra você. Cada catálogo
+vira um link próprio, pronto pra mandar no grupo.
+
+**Receba o pedido organizado.** O cliente escolhe na sua loja e o pedido cai
+no painel com itens, quantidades e total. Finalize com um clique, copie,
+imprima ou baixe em PDF e Excel.
+
+**Saiba o que está acontecendo.** Faturamento, pedidos finalizados, produtos
+mais vendidos e clientes recorrentes — com filtro por hoje, 7 dias, 30 dias,
+mês ou ano.
+
+**Pergunte em português.** A Dora AI responde sobre os dados da sua loja e
+desenha o gráfico quando a pergunta pede comparação.
+
+---
+
+## Funcionalidades
+
+| | |
+| --- | --- |
+| 🛍️ **Catálogo digital** | Link público por catálogo, com cores, logo e banner personalizados |
+| 🤖 **Importação com IA** | PDF, planilha (CSV/XLSX) ou fotos soltas viram produtos cadastrados |
+| 💬 **Pedidos no WhatsApp** | Pedido pelo WhatsApp ou pela própria loja, tudo no mesmo painel |
+| 📊 **Dashboard de vendas** | Faturamento, ranking de produtos e evolução no período |
+| ✨ **Dora AI** | Assistente que lê os dados da loja e responde com gráfico |
+| 👥 **Clientes** | Histórico e recorrência, montados a partir dos pedidos |
+| 📱 **Funciona no celular** | Painel e vitrine pensados pra tela pequena |
+
+---
+
+## Tecnologia
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</div>
+
+Next.js (App Router) + React + TypeScript no front. Supabase (Postgres com
+Row Level Security, Auth e Storage) no backend, Gemini para a importação por
+IA, Asaas para as assinaturas, e deploy em Cloudflare Workers.
+
+---
+
+<div align="center">
+
+**[vendora.app](https://vendora.app)** · Feito no Brasil 🇧🇷
+
+</div>
